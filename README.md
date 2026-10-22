@@ -7,7 +7,7 @@
 **Docente:** Walter Hugo Arboleda Mazo
 
 ## Estudiante
-**Estudiante:** Andrés Felipe Avilez Tejada
+**Estudiante:** Andres Felipe Avilez Tejada
 
 ## Descripción del curso
 Este repositorio contiene las actividades prácticas del curso de **Programación Orientada a Objetos 2026-2S**. Cada actividad aborda conceptos específicos de POO usando **Java** como lenguaje de programación, basándose en el libro **"Ejercicios de programación orientada a objetos con Java y UML"** de Leonardo Bermón Angarita.
@@ -51,4 +51,4 @@ Cada actividad tiene su propia carpeta con su README.md específico y código fu
 - **Línea de comandos**
 
 ## Autor
-**Andrés Felipe Avilez Tejada**
+**Andres Felipe Avilez Tejada**
