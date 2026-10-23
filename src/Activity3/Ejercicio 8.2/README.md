@@ -38,7 +38,7 @@ java -cp out Notas.Principal
 
 > Nota: la carpeta del ejercicio tiene espacios en el nombre (`Ejercicio 8.2`), por eso es importante usar comillas en las rutas.
 
-## Cómo funciona la app
+## Como funciona la app
 
 - Se ingresan 5 notas en los campos correspondientes.
 - Se valida que no queden vacíos.
