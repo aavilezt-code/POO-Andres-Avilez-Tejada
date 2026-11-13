@@ -36,6 +36,13 @@ Este repositorio contiene las actividades prácticas del curso de **Programació
 - Ejercicio 8.2 y 8.3 (Notas de estudiantes y Figuras geométricas)
 - Diseño de diagramas UML (Clases, Objetos y Casos de Uso)
 
+### Actividad 4 (20%)
+**Excepciones, Validación de Campos y Lectura de Archivos con Interfaz Gráfica**
+
+- Manejo de excepciones (`try`, `catch`, `finally`), lanzamiento explícito (`throw`) y bloques `catch` múltiples
+- Ejercicios 6.4, 6.5, 6.6, 6.7 y 6.8 con interfaz gráfica en Java Swing
+- Validación de datos de entrada y lectura de archivos de texto mediante flujos (`java.io`)
+
 ## Estructura del repositorio
 
 Cada actividad tiene su propia carpeta con su README.md específico y código fuente:
@@ -43,6 +50,7 @@ Cada actividad tiene su propia carpeta con su README.md específico y código fu
 - [**Actividad 1**](src/Activity1)
 - [**Actividad 2**](src/Activity2)
 - [**Actividad 3**](src/Activity3)
+- [**Actividad 4**](src/Activity4)
 
 ## Requisitos
 
