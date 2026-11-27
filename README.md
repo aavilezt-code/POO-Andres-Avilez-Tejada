@@ -54,9 +54,10 @@ Cada actividad tiene su propia carpeta con su README.md específico y código fu
 
 ## Requisitos
 
-- **Java JDK 8+**
-- **Compilador javac**
-- **Línea de comandos**
+- **Java Development Kit (JDK):** Versión 17 o superior
+- **IDE recomendado:** IntelliJ IDEA, Visual Studio Code (con Extension Pack for Java) o NetBeans
+- **Compilación y ejecución desde consola (Actividad 4):**
 
-## Autor
-**Andres Felipe Avilez Tejada**
+```bash
+javac -d out src/Activity4/*.java src/Activity4/*/*.java
+java -cp out Activity4.MainActivity4
